@@ -1,0 +1,19 @@
+/* HEADER */
+.fondo {
+  background-color: blueviolet;
+}
+
+.fondo p {
+  color: cornsilk;
+}
+
+.btn {
+  text-decoration: none;
+  padding: 10px 15px;
+  background-color: blue;
+  color: white;
+}
+
+/* CUERPO */
+/* FOOTER */
+/*# sourceMappingURL=estilos.css.map */

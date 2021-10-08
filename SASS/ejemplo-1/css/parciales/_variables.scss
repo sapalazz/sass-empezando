@@ -1,0 +1,9 @@
+$fondo: blueviolet;
+$fondo-boton: blue;
+@mixin boton 
+{
+text-decoration: none;
+padding: 10px 15px;
+background-color: $fondo-boton;
+color: white;    
+}

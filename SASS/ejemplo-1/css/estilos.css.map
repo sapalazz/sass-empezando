@@ -1,0 +1,13 @@
+{
+    "version": 3,
+    "mappings": "AEAA,YAAY;AAEZ,AAAA,MAAM,CACN;EACI,gBAAgB,EDJZ,UAAU;CCSjB;;AAPD,AAGI,MAHE,CAGF,CAAC,CACD;EACI,KAAK,EAAE,QAAQ;CAClB;;AAGL,AAAA,IAAI,CACJ;EDRA,eAAe,EAAE,IAAI;EACrB,OAAO,EAAE,SAAS;EAClB,gBAAgB,EALF,IAAI;EAMlB,KAAK,EAAE,KAAK;CCOX;;ACdD,YAAY;ACAZ,YAAY",
+    "sources": [
+        "estilos.scss",
+        "parciales/_variables.scss",
+        "parciales/_header.scss",
+        "parciales/_cuerpo.scss",
+        "parciales/_footer.scss"
+    ],
+    "names": [],
+    "file": "estilos.css"
+}

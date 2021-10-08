@@ -1,0 +1,15 @@
+/* HEADER */
+
+.fondo
+{
+    background-color: $fondo;
+    p
+    {
+        color: cornsilk;
+    }
+}
+
+.btn
+{
+    @include boton;
+}
